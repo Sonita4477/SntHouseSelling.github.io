@@ -1,2 +1,2 @@
-# SntHouseSelling.github.io
-Web House Selling  (Project final Year 2 sem 1)
+# Web_final_project_year2_sem1
+Web House Selling 
